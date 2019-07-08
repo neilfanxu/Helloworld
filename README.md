@@ -1,3 +1,3 @@
 # Helloworld
-# trying to use github
+# trying to learn github
 # let's try to change the code
